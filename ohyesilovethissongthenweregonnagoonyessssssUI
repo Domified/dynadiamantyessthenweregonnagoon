@@ -11,7 +11,6 @@ local sounds = {}
 local isActive = false
 local MAX_PARTS = 250 
 
-local elmoImages = {"rbxassetid://10901055606","rbxassetid://15231112855","rbxassetid://9182757592","rbxassetid://2891891795","rbxassetid://13915312936"}
 local flashTexts = {"GIVE DOM HIS ROLE BACK","DOM = QUEEN"}
 local billboardTexts = {"GIVE DOM HIS ROLE BACK","DOM = QUEEN"}
 local faceOptions = {Enum.NormalId.Front, Enum.NormalId.Back, Enum.NormalId.Left, Enum.NormalId.Right, Enum.NormalId.Top, Enum.NormalId.Bottom}
